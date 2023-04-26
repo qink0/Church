@@ -449,13 +449,13 @@ p {
 .event-list .app span {
 	font-size: 13px;
 	font-weight: 600;
-	color: #f4bc51;
+	color: #9EA2A2;
 	display: inline-block;
 }
 
 
 .event-list .white-button a:hover {
-	background-color: #f4bc51;
+	background-color: #9EA2A2;
 	color: #fff;
 }
 
